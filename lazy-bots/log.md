@@ -1,3 +1,4 @@
 # Tiny Tool daily log
 
 2026-10-27 (Europe/London): Daily run. Stripe Rose Marketing Agency has 0 InvoiceChase subscriptions and 0 checkout sessions; drafted 10 X replies for InvoiceChase (https://www.getpaidfollowup.com); Michele posted 5 of them (@simplyrohana, @eazyfyp, @TopClickMediaSA, @RichBurles, @AlexHartsuff). Daily log destination moved from AISystemsSociety/youtube to this Nova repo.
+2026-10-28 (Europe/London): Daily run. Stripe Rose Marketing Agency still has 0 InvoiceChase subscriptions and 0 checkout sessions since 21 Oct; site https://www.getpaidfollowup.com is up. Drafted 10 new X replies (@thatsoravenk, @NilambarGirii, @MahimaJalan2, @harshmadan, @jeremy_greene97, @Cam_XRP, @Nickspeaks01, @designedbyparas, @puchhu337, @EricChez). Waiting on Michele: approve/post replies; decide on proposed fix (make the free version 1 draft and put the full 3-step chase sequence behind the $9/mo plan).
